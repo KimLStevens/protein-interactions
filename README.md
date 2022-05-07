@@ -1,3 +1,3 @@
 # potplant
-jupiter notebooks
-somewhere to keep my notebooks while I work out what I need
+jupiter notebook
+cell surface protein interactions un finished
