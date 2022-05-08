@@ -1,3 +1,3 @@
 # potplant
 jupiter notebook
-cell surface protein interactions un finished
+cell surface protein interactions unfinished
